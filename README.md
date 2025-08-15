@@ -50,7 +50,7 @@ A detailed **project report** is included:
 ## 📬 Contact
 **Intern:** Harshali Upase  
 **Email:** harshaliupase12@gmail.com  
-**LinkedIn:** [Your LinkedIn Profile URL]
+**LinkedIn:** [https://www.linkedin.com/in/harshali-upase-dataanalyst]
 
 ---
 **Note:** These projects are part of the CODSOFT internship program for learning and demonstration purposes.
